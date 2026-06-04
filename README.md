@@ -559,7 +559,7 @@ index.html
       <a class="brand" href="#top" aria-label="回到首頁">
         <div class="brand-mark">🦎</div>
         <div>
-          <strong>綠鬃蜥｜天下第十班</strong>
+          <strong>綠鬃蜥｜職人智能水電工程</strong>
           <small>10TH TEAM · PROFESSIONAL ELECTRICAL</small>
         </div>
       </a>
@@ -578,7 +578,7 @@ index.html
       <div class="container hero-grid">
         <div>
           <div class="eyebrow">有機會參與國際級大型數據中心相關工程</div>
-          <h1>綠鬃蜥<br><span>天下第十班</span></h1>
+          <h1>綠鬃蜥<br><span>職人智能水電工程</span></h1>
           <p class="lead">水電技師／配線師傅招募中。實務實戰強，做中學、學中做，跟對工班，前途似錦。</p>
           <p class="sublead">
             我們正在找願意上現場、重品質、守安全、能與團隊配合的水電夥伴。
@@ -692,7 +692,7 @@ index.html
           </ul>
         </div>
         <div class="panel">
-          <h2>加入天下第十班的價值</h2>
+          <h2>加入職人智能水電工程的價值</h2>
           <p>
             水電不只是拉線配管，而是未來智慧城市、數據中心、能源管理與自動控制的核心技術。
             加入職人智能水電工程，讓你的現場能力、工程履歷與技術價值一起升級。
@@ -802,7 +802,7 @@ index.html
     </section>
   </main>
 
-  <a class="btn btn-primary sticky-cta" href="#apply">立即登錄，加入天下第十班 ⚡</a>
+  <a class="btn btn-primary sticky-cta" href="#apply">立即登錄，加入職人智能水電工程 ⚡</a>
 
   <footer>
     <div class="container">
